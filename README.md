@@ -7,7 +7,6 @@ Backend project of a task management application. Built in Java using Spring Boo
 - User registration and login (Basic Auth)
 - Adding, removing, marking tasks as done
 - Associating tasks with users
-- Ready REST API for integration with the frontend (Angular)
 
 ## Technologies
 
